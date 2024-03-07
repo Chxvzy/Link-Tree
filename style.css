@@ -5,3 +5,15 @@
     font-family: "Inter", sans-serif;
 }
 
+body {
+    background-color: #141414;
+    height: 100vh;
+    
+
+    border: 1px solid red;
+}
+
+div {
+    background-color: #1F1F1F;
+    width: 384px;
+}
